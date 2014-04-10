@@ -1,0 +1,35 @@
+{
+  "name": "haze-acl",
+  "version": "1.0.0",
+  "description": "Access Control Lists and Role-based Access Control for Haze ",
+  "main": "haze-acl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fictorial/haze-acl.git"
+  },
+  "keywords": [
+    "haze",
+    "acl",
+    "access",
+    "access",
+    "control",
+    "list",
+    "security",
+    "roles",
+    "rbac",
+    "role-based",
+    "access",
+    "control",
+    "role",
+    "acls"
+  ],
+  "author": "Brian Hammond <brian@fictorial.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fictorial/haze-acl/issues"
+  },
+  "homepage": "https://github.com/fictorial/haze-acl"
+}
